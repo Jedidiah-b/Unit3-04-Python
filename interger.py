@@ -2,7 +2,7 @@
 # postitive, negative or 0
 
 # input
-guess = int(input("enter an integer"))
+guess = int(input("enter an integer "))
 print("")
 
 # process
